@@ -1,4 +1,3 @@
 # ethnocraft
 
-Something great is coming!
-https://ethnocraft.org/
+Something great is coming @ [Ethnocraft](https://ethnocraft.org/)!
